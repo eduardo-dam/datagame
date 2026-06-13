@@ -4,3 +4,8 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 docs/
+.env
+.agents/
+.codex/
+AGENTS.md
+STATUS.md
