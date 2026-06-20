@@ -9,3 +9,6 @@ docs/
 .codex/
 AGENTS.md
 STATUS.md
+data/cache/
+src/data/
+*.egg-info/
